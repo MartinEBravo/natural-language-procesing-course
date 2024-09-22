@@ -1,1 +1,1 @@
-# natural-language-procesing-course
+# natural-language-processing-course
